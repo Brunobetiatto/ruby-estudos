@@ -1,4 +1,4 @@
-numbers = {a: 10, b: 30, c: 50, d:25}
+numbers = {a: 10, b: 30, c: 50, d: 25, e: 55}
 keyMaior = 0
 valuesMaior = 0
 
