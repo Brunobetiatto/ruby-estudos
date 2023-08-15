@@ -8,3 +8,6 @@ class Computer
     end 
 end 
  
+computer = Computer.new 
+
+puts computer.shutdown
