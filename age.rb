@@ -18,7 +18,7 @@ loop do
     elsif option == 0 
         break 
     else 
-        result = "opção invalida"   
+        result = "opção invalida"  
     end
     system "clear" #limpa o console
 end

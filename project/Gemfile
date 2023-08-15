@@ -1,3 +1,8 @@
 source 'https://rubygems.org' 
 
+<<<<<<< HEAD
 gem 'os'
+=======
+gem 'os' 
+gem 'rake' 
+>>>>>>> 4d9e60fd26e84e74b0719397108e436fd716ee32
