@@ -11,7 +11,7 @@ class Animal
   class Dog < Animal
     def speak
       "Woof!"
-    end
+  
   end
   
   class Cat < Animal
